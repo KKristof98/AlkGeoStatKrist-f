@@ -1,0 +1,2 @@
+# AlkGeoStatKrist-f
+Levelező Msc
